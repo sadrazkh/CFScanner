@@ -1,0 +1,8 @@
+{
+	"id": "e9b3ae04-3dbf-4893-fc75-8f986535e01e",
+	"host": "spsams.shopely.xyz",
+	"port": "443",
+	"path": "pram121",
+	"serverName": "spsams.shopely.xyz",
+	"subnetsList": "https://raw.githubusercontent.com/MortezaBashsiz/CFScanner/main/config/cf.local.iplist"
+}
