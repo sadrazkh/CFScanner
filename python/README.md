@@ -232,6 +232,12 @@ Contributors names and contact info
   * Fixed a bug in reading subnets from file with full address in windows
 * 1.3.16
   * Added no-fronting option
+* 1.3.17
+  * Improved the fronting test method (jafar method)
+* 1.3.18
+  * changed fronting domain
+* 1.3.19
+  * fixed a bug in xray config saving in windows. ":" is not allowed in windows file names
 
 [python]: https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white
-[version]: https://img.shields.io/badge/Version-1.3.16-blue
+[version]: https://img.shields.io/badge/Version-1.3.19-blue
