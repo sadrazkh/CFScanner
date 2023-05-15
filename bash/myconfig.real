@@ -1,8 +1,8 @@
 {
 	"id": "e9b3ae04-3dbf-4893-fc75-8f986535e01e",
-	"host": "spaintoams.shiply.shop",
+	"host": "spaintoams.kalaspa.store",
 	"port": "443",
 	"path": "pram121",
-	"serverName": "spaintoams.shiply.shop",
+	"serverName": "spaintoams.kalaspa.store",
 	"subnetsList": "https://raw.githubusercontent.com/MortezaBashsiz/CFScanner/main/config/cf.local.iplist"
 }
